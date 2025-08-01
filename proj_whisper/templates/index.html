@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <title>Ambient Audio Scribe – Independent Chunks</title>
+  <style>
+    body { font-family: system-ui, sans-serif; background-color: #f4f4f9; color: #333; line-height: 1.6; padding: 20px; }
+    h1 { color: #444; }
+    button {
+      background-color: #007bff;
+      color: white;
+      border: none;
+      padding: 10px 15px;
+      margin: 5px;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+      transition: background-color 0.3s;
+    }
+    button:disabled {
+      background-color: #cccccc;
+      cursor: not-allowed;
+    }
+    button:hover:not(:disabled) {
+      background-color: #0056b3;
+    }
+    #transcriptionLog, #Log {
+      background-color: #fff;
+      border: 1px solid #ddd;
+      padding: 15px;
+      margin-top: 20px;
+      height: 400px;
+      overflow-y: auto;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      font-family: 'Courier New', Courier, monospace;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Ambient Audio Scribe – Independent Chunks</h1>
+  <button id="startBtn">Start Recording</button>
+  <button id="stopBtn" disabled>Stop</button>
+  <div id="logs" style="display: flex; flex-direction: row; gap: 10px;">
+    <pre id="transcriptionLog">Ready to record. Click "Start Recording" to begin.</pre>
+    <pre id="Log">Ready to record. Click "Start Recording" to begin.</pre>
+  </div>
+  <script>
+    let stream = null;
+    let recordingInterval = null;
+    let global_start = 0;
+    let last_update = -1000;
+    const CHUNK_DURATION_MS = 10000; // Create a new 10-second file each time
+
+    const startBtn = document.getElementById("startBtn");
+    const stopBtn = document.getElementById("stopBtn");
+    const transcript_log = document.getElementById("transcriptionLog");
+    const log = document.getElementById("Log");
+
+    async function sendChunk(blob, startTime) {
+      const form = new FormData();
+      form.append('audio', blob, 'audio.webm');
+      form.append('global_start', startTime);
+
+      const timestamp = new Date().toLocaleTimeString();
+      log.textContent += `\n[${timestamp}] → Sending chunk, size: ${blob.size} bytes`;
+      log.scrollTop = log.scrollHeight;
+
+      try {
+        const response = await fetch('http://localhost:5000/upload', {
+          method: 'POST',
+          body: form,
+          credentials: 'include'
+        });
+
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
+        const data = await response.json();
+        if (data.update > last_update) {
+          last_update = data.update;
+          const transcriptText = data.transcript ? data.transcript.trim() : '(No transcript received)';
+          transcript_log.textContent = `\n[${new Date().toLocaleTimeString()}] ← ${transcriptText}`;
+          transcript_log.scrollTop = transcript_log.scrollHeight;
+        }
+      } catch (error) {
+        log.textContent += `\n[${new Date().toLocaleTimeString()}] ← [Error: ${error.message}]`;
+        log.scrollTop = log.scrollHeight;
+      }
+    }
+    
+    // This function records one single, complete chunk and sends it.
+    function recordAndSendChunk() {
+        if (!stream) {
+            console.error("Stream is not available.");
+            return;
+        }
+        
+        const mimeType = MediaRecorder.isTypeSupported('audio/webm;codecs=opus') ? 'audio/webm;codecs=opus' : 'audio/webm';
+        const recorder = new MediaRecorder(stream, { mimeType });
+        const currentChunkStartTime = global_start;
+        global_start += CHUNK_DURATION_MS;
+
+        // This event will fire when recorder.stop() is called, giving us a complete file.
+        recorder.ondataavailable = (event) => {
+            if (event.data && event.data.size > 0) {
+                console.log("Generated complete chunk:", event.data);
+                sendChunk(event.data, currentChunkStartTime);
+            }
+        };
+
+        recorder.onerror = (e) => {
+            log.textContent += `\n[Recorder Error: ${e.error.name}]`;
+            console.error('Recorder Error:', e.error);
+        };
+        
+        recorder.start();
+        console.log(`Recording a new ${CHUNK_DURATION_MS}ms chunk.`);
+
+        // Stop the recording after the desired duration to finalize the file.
+        setTimeout(() => {
+            if (recorder.state === 'recording') {
+                recorder.stop();
+            }
+        }, CHUNK_DURATION_MS);
+    }
+
+
+    async function startRecording() {
+      try {
+        stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      } catch (e) {
+        log.textContent = `Error getting microphone: ${e.message}`;
+        return;
+      }
+
+      global_start = 0;
+      last_update = -1000;
+      
+      startBtn.disabled = true;
+      stopBtn.disabled = false;
+      log.textContent = `Recording... creating a new file every ${CHUNK_DURATION_MS / 1000} seconds.`;
+      transcript_log.textContent = `Recording started at ${new Date().toLocaleTimeString()}. Waiting for transcription updates...`;
+
+      // Immediately record the first chunk, then set an interval for subsequent ones.
+      recordAndSendChunk();
+      recordingInterval = setInterval(recordAndSendChunk, CHUNK_DURATION_MS);
+    }
+
+    function stopRecording() {
+        if (recordingInterval) {
+            clearInterval(recordingInterval);
+            recordingInterval = null;
+        }
+        if (stream) {
+            stream.getTracks().forEach(t => t.stop());
+            stream = null;
+        }
+        log.textContent += "\n\nRecording finished.";
+        log.scrollTop = log.scrollHeight;
+        startBtn.disabled = false;
+        stopBtn.disabled = true;
+    }
+
+    startBtn.onclick = async () => {
+      try {
+        await fetch('http://localhost:5000/start', { method: 'GET' });
+        startRecording();
+      } catch (e) {
+        log.textContent = `Could not connect to server at http://localhost:5000. Is it running? \nError: ${e.message}`;
+      }
+    };
+
+    stopBtn.onclick = () => {
+      if (recordingInterval) {
+        log.textContent += "\n\nStopping...";
+        stopRecording();
+      }
+    };
+  </script>
+</body>
+</html>

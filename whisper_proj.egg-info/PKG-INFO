@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: whisper_proj
+Version: 0.0.1
+Summary: A project for testing Whisper
+Author: sarfraz
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: dill
+Requires-Dist: openai
+Requires-Dist: python-dotenv
+Requires-Dist: torch>=2.7.1
+Requires-Dist: torchaudio>=2.7.0
+Requires-Dist: pyannote.audio<4,>=3.0
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary

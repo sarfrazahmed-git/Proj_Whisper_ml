@@ -1,0 +1,1370 @@
+2025-07-16 22:54:30 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 22:54:30 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 22:54:30 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 22:54:30 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 22:54:30 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [disable_jit_profiling, allow_tf32]
+2025-07-16 22:54:30 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 22:54:30 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 22:54:30 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 22:54:32 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 22:54:32 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 22:54:32 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 22:54:32 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 22:54:32 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 22:54:32 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 22:54:32 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.29.79.0:5000
+2025-07-16 22:54:32 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 22:54:32 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 22:54:38 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 22:54:38 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 22:54:38 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 22:54:38 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 22:54:38 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [allow_tf32, disable_jit_profiling]
+2025-07-16 22:54:38 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 22:54:38 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 22:54:38 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 22:54:40 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 22:54:40 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 22:54:40 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 22:54:40 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 22:54:40 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 22:54:40 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 22:54:40 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 22:54:40 - werkzeug - INFO -  * Debugger PIN: 114-999-097
+2025-07-16 22:56:05 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 22:56:05 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 22:56:05 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 22:56:05 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 22:56:05 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [allow_tf32, disable_jit_profiling]
+2025-07-16 22:56:05 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 22:56:05 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 22:56:05 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 22:56:07 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 22:56:07 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 22:56:07 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 22:56:07 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 22:56:07 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 22:56:07 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 22:56:07 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.29.79.0:5000
+2025-07-16 22:56:07 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 22:56:07 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 22:56:13 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 22:56:13 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 22:56:13 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 22:56:13 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 22:56:14 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [allow_tf32, disable_jit_profiling]
+2025-07-16 22:56:14 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 22:56:14 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 22:56:14 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 22:56:15 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 22:56:15 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 22:56:15 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 22:56:15 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 22:56:15 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 22:56:15 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 22:56:15 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 22:56:15 - werkzeug - INFO -  * Debugger PIN: 114-999-097
+2025-07-16 22:56:23 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 22:56:23] "GET / HTTP/1.1" 200 -
+2025-07-16 22:56:24 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 22:56:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-16 22:56:28 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 22:56:28] "GET /start HTTP/1.1" 200 -
+2025-07-16 22:56:41 - root - INFO - openai client loaded successfully
+2025-07-16 22:56:41 - root - INFO - Loading label correction model...
+2025-07-16 22:56:43 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 22:56:43 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 22:56:43 - root - INFO - Model loaded successfully.
+2025-07-16 22:56:43 - root - INFO - Loading diarisation model...
+2025-07-16 22:56:45 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.5.4 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--segmentation/snapshots/c4c8ceafcbb3a7a280c2d357aee9fbc9b0be7f9b/pytorch_model.bin`
+2025-07-16 22:56:45 - speechbrain.utils.fetching - INFO - Fetch hyperparams.yaml: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/hyperparams.yaml'
+2025-07-16 22:56:45 - speechbrain.utils.fetching - INFO - Fetch custom.py: Fetching from HuggingFace Hub 'speechbrain/spkrec-ecapa-voxceleb' if not cached
+2025-07-16 22:56:46 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 22:56:46 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _load
+2025-07-16 22:56:46 - speechbrain.utils.checkpoints - DEBUG - Registered parameter transfer hook for _load
+2025-07-16 22:56:46 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 22:56:46 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load_if_possible
+2025-07-16 22:56:46 - speechbrain.utils.parameter_transfer - DEBUG - Collecting files (or symlinks) for pretraining in /home/sarfraz/.cache/torch/pyannote/speechbrain.
+2025-07-16 22:56:46 - speechbrain.utils.fetching - INFO - Fetch embedding_model.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt'
+2025-07-16 22:56:46 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["embedding_model"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 22:56:46 - speechbrain.utils.fetching - INFO - Fetch mean_var_norm_emb.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt'
+2025-07-16 22:56:46 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["mean_var_norm_emb"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 22:56:46 - speechbrain.utils.fetching - INFO - Fetch classifier.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt'
+2025-07-16 22:56:46 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["classifier"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 22:56:46 - speechbrain.utils.fetching - INFO - Fetch label_encoder.txt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt'
+2025-07-16 22:56:46 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["label_encoder"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 22:56:46 - speechbrain.utils.parameter_transfer - INFO - Loading pretrained files for: embedding_model, mean_var_norm_emb, classifier, label_encoder
+2025-07-16 22:56:46 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): embedding_model -> /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 22:56:46 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): mean_var_norm_emb -> /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 22:56:46 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): classifier -> /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 22:56:46 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): label_encoder -> /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 22:56:46 - speechbrain.dataio.encoder - DEBUG - Loaded categorical encoding from /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 22:56:46 - root - INFO - Model loaded successfully.
+2025-07-16 22:56:46 - root - INFO - Starting diarization process
+2025-07-16 22:57:09 - root - INFO - Diarization completed successfully
+2025-07-16 22:57:09 - root - INFO - segmenting audio
+2025-07-16 22:57:09 - root - INFO - Skipping segment from 1566 to 2072 ms, duration is less than 500 ms
+2025-07-16 22:57:09 - root - INFO - Segment: SPEAKER_00, Start: 1566, End: 2072
+2025-07-16 22:57:09 - root - INFO - Skipping segment from 7169 to 7253 ms, duration is less than 500 ms
+2025-07-16 22:57:09 - root - INFO - Skipping segment from 9042 to 9261 ms, duration is less than 500 ms
+2025-07-16 22:57:09 - root - INFO - Skipping segment from 14475 to 15032 ms, duration is less than 500 ms
+2025-07-16 22:57:09 - root - INFO - Segment: SPEAKER_01, Start: 14475, End: 15032
+2025-07-16 22:57:09 - root - INFO - Skipping segment from 17108 to 17530 ms, duration is less than 500 ms
+2025-07-16 22:57:09 - root - INFO - Audio segmentation completed successfully.
+2025-07-16 22:57:09 - root - INFO - Audio segments created successfully
+2025-07-16 22:57:09 - root - INFO - Starting label correction process
+2025-07-16 22:57:09 - root - INFO - Database connection established successfully.
+2025-07-16 22:57:09 - root - INFO - Processing segment with label: SPEAKER_00
+2025-07-16 22:57:09 - root - INFO - Both speaker vectors are empty, skipping label correction.
+2025-07-16 22:57:09 - root - INFO - Processing segment with label: SPEAKER_01
+2025-07-16 22:57:09 - root - INFO - Database connection closed successfully.
+2025-07-16 22:57:09 - root - INFO - Label correction process completed successfully
+2025-07-16 22:57:09 - root - INFO - Starting transcription process
+2025-07-16 22:57:09 - root - INFO - Database connection established successfully
+2025-07-16 22:57:16 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-07-16 22:57:19 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-07-16 22:57:19 - root - INFO - Transcription process completed successfully
+2025-07-16 22:57:19 - root - INFO - Database connection closed successfully
+2025-07-16 22:57:19 - root - INFO - Cursor closed successfully
+2025-07-16 22:57:19 - root - INFO - Audio segments inserted successfully.
+2025-07-16 22:57:19 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 22:57:19] "POST /upload HTTP/1.1" 200 -
+2025-07-16 23:01:00 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 23:01:00 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 23:01:00 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:01:00 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 23:01:00 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [disable_jit_profiling, allow_tf32]
+2025-07-16 23:01:00 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 23:01:00 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:01:00 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 23:01:01 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:01:01 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 23:01:01 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 23:01:01 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:01:01 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 23:01:01 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 23:01:02 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.29.79.0:5000
+2025-07-16 23:01:02 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 23:01:02 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 23:01:09 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 23:01:09 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 23:01:09 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:01:09 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 23:01:09 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [disable_jit_profiling, allow_tf32]
+2025-07-16 23:01:09 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 23:01:09 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:01:09 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 23:01:10 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:01:10 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 23:01:10 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 23:01:10 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:01:10 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 23:01:10 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 23:01:11 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 23:01:11 - werkzeug - INFO -  * Debugger PIN: 114-999-097
+2025-07-16 23:01:11 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:01:11] "GET / HTTP/1.1" 200 -
+2025-07-16 23:01:16 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:01:16] "GET / HTTP/1.1" 200 -
+2025-07-16 23:01:18 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:01:18] "GET / HTTP/1.1" 200 -
+2025-07-16 23:01:20 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:01:20] "GET /start HTTP/1.1" 200 -
+2025-07-16 23:01:31 - root - INFO - openai client loaded successfully
+2025-07-16 23:01:31 - root - INFO - Loading label correction model...
+2025-07-16 23:01:32 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:01:32 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:01:32 - root - INFO - Model loaded successfully.
+2025-07-16 23:01:33 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:01:33] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:01:40 - root - INFO - openai client loaded successfully
+2025-07-16 23:01:40 - root - INFO - Loading label correction model...
+2025-07-16 23:01:41 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:01:41 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:01:41 - root - INFO - Model loaded successfully.
+2025-07-16 23:01:42 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:01:42] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:01:51 - root - INFO - openai client loaded successfully
+2025-07-16 23:01:51 - root - INFO - Loading label correction model...
+2025-07-16 23:01:51 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:01:51 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:01:52 - root - INFO - Model loaded successfully.
+2025-07-16 23:01:52 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:01:52] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:02:01 - root - INFO - openai client loaded successfully
+2025-07-16 23:02:01 - root - INFO - Loading label correction model...
+2025-07-16 23:02:02 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:02:02 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:02:02 - root - INFO - Model loaded successfully.
+2025-07-16 23:02:02 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:02:02] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:02:10 - root - INFO - openai client loaded successfully
+2025-07-16 23:02:10 - root - INFO - Loading label correction model...
+2025-07-16 23:02:11 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:02:11 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:02:11 - root - INFO - Model loaded successfully.
+2025-07-16 23:02:12 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:02:12] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:02:20 - root - INFO - openai client loaded successfully
+2025-07-16 23:02:20 - root - INFO - Loading label correction model...
+2025-07-16 23:02:21 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:02:22 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:02:22 - root - INFO - Model loaded successfully.
+2025-07-16 23:02:22 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:02:22] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:02:31 - root - INFO - openai client loaded successfully
+2025-07-16 23:02:31 - root - INFO - Loading label correction model...
+2025-07-16 23:02:32 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:02:32 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:02:32 - root - INFO - Model loaded successfully.
+2025-07-16 23:02:32 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:02:32] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:02:41 - root - INFO - openai client loaded successfully
+2025-07-16 23:02:41 - root - INFO - Loading label correction model...
+2025-07-16 23:02:42 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:02:42 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:02:42 - root - INFO - Model loaded successfully.
+2025-07-16 23:02:42 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:02:42] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:02:51 - root - INFO - openai client loaded successfully
+2025-07-16 23:02:51 - root - INFO - Loading label correction model...
+2025-07-16 23:02:51 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:02:52 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:02:52 - root - INFO - Model loaded successfully.
+2025-07-16 23:02:53 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:02:53] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:07:19 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 23:07:19 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 23:07:19 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:07:19 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 23:07:20 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [allow_tf32, disable_jit_profiling]
+2025-07-16 23:07:20 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 23:07:20 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:07:20 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 23:07:22 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:07:22 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 23:07:22 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 23:07:22 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:07:22 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 23:07:22 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 23:07:22 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.29.79.0:5000
+2025-07-16 23:07:22 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 23:07:22 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 23:07:29 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 23:07:29 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 23:07:29 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:07:29 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 23:07:29 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [allow_tf32, disable_jit_profiling]
+2025-07-16 23:07:29 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 23:07:29 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:07:29 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 23:07:31 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:07:31 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 23:07:31 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 23:07:31 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:07:31 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 23:07:31 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 23:07:31 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 23:07:31 - werkzeug - INFO -  * Debugger PIN: 144-133-759
+2025-07-16 23:07:31 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:07:31] "GET / HTTP/1.1" 200 -
+2025-07-16 23:07:32 - root - INFO - openai client loaded successfully
+2025-07-16 23:07:32 - root - INFO - Loading label correction model...
+2025-07-16 23:07:32 - root - INFO - openai client loaded successfully
+2025-07-16 23:07:32 - root - INFO - Loading label correction model...
+2025-07-16 23:07:34 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:07:34 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:07:34 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:07:34 - root - INFO - Model loaded successfully.
+2025-07-16 23:07:34 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:07:34 - root - INFO - Model loaded successfully.
+2025-07-16 23:07:34 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:07:34] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:07:34 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:07:34] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:07:54 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:07:54] "GET /start HTTP/1.1" 200 -
+2025-07-16 23:07:58 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:07:58] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-16 23:08:06 - root - INFO - openai client loaded successfully
+2025-07-16 23:08:06 - root - INFO - Loading label correction model...
+2025-07-16 23:08:07 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:08:07 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:08:07 - root - INFO - Model loaded successfully.
+2025-07-16 23:08:08 - root - INFO - Loading diarisation model...
+2025-07-16 23:08:09 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.5.4 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--segmentation/snapshots/c4c8ceafcbb3a7a280c2d357aee9fbc9b0be7f9b/pytorch_model.bin`
+2025-07-16 23:08:09 - speechbrain.utils.fetching - INFO - Fetch hyperparams.yaml: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/hyperparams.yaml'
+2025-07-16 23:08:09 - speechbrain.utils.fetching - INFO - Fetch custom.py: Fetching from HuggingFace Hub 'speechbrain/spkrec-ecapa-voxceleb' if not cached
+2025-07-16 23:08:09 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:08:09 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _load
+2025-07-16 23:08:09 - speechbrain.utils.checkpoints - DEBUG - Registered parameter transfer hook for _load
+2025-07-16 23:08:10 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:08:10 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load_if_possible
+2025-07-16 23:08:10 - speechbrain.utils.parameter_transfer - DEBUG - Collecting files (or symlinks) for pretraining in /home/sarfraz/.cache/torch/pyannote/speechbrain.
+2025-07-16 23:08:10 - speechbrain.utils.fetching - INFO - Fetch embedding_model.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt'
+2025-07-16 23:08:10 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["embedding_model"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:08:10 - speechbrain.utils.fetching - INFO - Fetch mean_var_norm_emb.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt'
+2025-07-16 23:08:10 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["mean_var_norm_emb"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:08:10 - speechbrain.utils.fetching - INFO - Fetch classifier.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt'
+2025-07-16 23:08:10 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["classifier"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:08:10 - speechbrain.utils.fetching - INFO - Fetch label_encoder.txt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt'
+2025-07-16 23:08:10 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["label_encoder"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:08:10 - speechbrain.utils.parameter_transfer - INFO - Loading pretrained files for: embedding_model, mean_var_norm_emb, classifier, label_encoder
+2025-07-16 23:08:10 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): embedding_model -> /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:08:10 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): mean_var_norm_emb -> /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:08:10 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): classifier -> /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:08:10 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): label_encoder -> /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:08:10 - speechbrain.dataio.encoder - DEBUG - Loaded categorical encoding from /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:08:10 - root - INFO - Model loaded successfully.
+2025-07-16 23:08:10 - root - INFO - Starting diarization process
+2025-07-16 23:08:16 - root - INFO - openai client loaded successfully
+2025-07-16 23:08:16 - root - INFO - Loading label correction model...
+2025-07-16 23:08:18 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:08:18 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:08:18 - root - INFO - Model loaded successfully.
+2025-07-16 23:08:19 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:08:19] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:08:23 - root - INFO - Diarization completed successfully
+2025-07-16 23:08:23 - root - INFO - segmenting audio
+2025-07-16 23:08:23 - root - INFO - Skipping segment from 1009 to 3355 ms, duration is less than 500 ms
+2025-07-16 23:08:23 - root - INFO - Segment: SPEAKER_00, Start: 1009, End: 3355
+2025-07-16 23:08:23 - root - INFO - Skipping segment from 3945 to 4317 ms, duration is less than 500 ms
+2025-07-16 23:08:23 - root - INFO - Skipping segment from 4941 to 5312 ms, duration is less than 500 ms
+2025-07-16 23:08:23 - root - INFO - Skipping segment from 5903 to 6240 ms, duration is less than 500 ms
+2025-07-16 23:08:23 - root - INFO - Skipping segment from 6966 to 8181 ms, duration is less than 500 ms
+2025-07-16 23:08:23 - root - INFO - Segment: SPEAKER_00, Start: 6966, End: 8181
+2025-07-16 23:08:23 - root - INFO - Skipping segment from 8856 to 9210 ms, duration is less than 500 ms
+2025-07-16 23:08:23 - root - INFO - Audio segmentation completed successfully.
+2025-07-16 23:08:23 - root - INFO - Audio segments created successfully
+2025-07-16 23:08:23 - root - INFO - Starting label correction process
+2025-07-16 23:08:23 - root - INFO - Database connection established successfully.
+2025-07-16 23:08:23 - root - INFO - Processing segment with label: SPEAKER_00
+2025-07-16 23:08:23 - root - INFO - Both speaker vectors are empty, skipping label correction.
+2025-07-16 23:08:23 - root - INFO - Processing segment with label: SPEAKER_00
+2025-07-16 23:08:23 - root - INFO - Database connection closed successfully.
+2025-07-16 23:08:23 - root - INFO - Label correction process completed successfully
+2025-07-16 23:08:23 - root - INFO - Starting transcription process
+2025-07-16 23:08:23 - root - INFO - Database connection established successfully
+2025-07-16 23:13:11 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 23:13:11 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 23:13:11 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:13:11 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 23:13:11 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [allow_tf32, disable_jit_profiling]
+2025-07-16 23:13:11 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 23:13:11 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:13:11 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 23:13:13 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:13:13 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 23:13:13 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 23:13:13 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:13:13 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 23:13:13 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 23:13:13 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.29.79.0:5000
+2025-07-16 23:13:13 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 23:13:13 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 23:13:19 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 23:13:19 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 23:13:19 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:13:19 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 23:13:20 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [disable_jit_profiling, allow_tf32]
+2025-07-16 23:13:20 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 23:13:20 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:13:20 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 23:13:21 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:13:21 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 23:13:21 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 23:13:21 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:13:21 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 23:13:21 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 23:13:22 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 23:13:22 - werkzeug - INFO -  * Debugger PIN: 144-133-759
+2025-07-16 23:13:23 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:13:23] "GET / HTTP/1.1" 200 -
+2025-07-16 23:13:23 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:13:23] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-16 23:13:27 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:13:27] "GET /start HTTP/1.1" 200 -
+2025-07-16 23:13:38 - root - INFO - openai client loaded successfully
+2025-07-16 23:13:38 - root - INFO - Loading label correction model...
+2025-07-16 23:13:40 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:13:40 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:13:40 - root - INFO - Model loaded successfully.
+2025-07-16 23:13:40 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:13:40] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:13:48 - root - INFO - openai client loaded successfully
+2025-07-16 23:13:48 - root - INFO - Loading label correction model...
+2025-07-16 23:13:50 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:13:50 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:13:50 - root - INFO - Model loaded successfully.
+2025-07-16 23:13:50 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:13:50] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:13:59 - root - INFO - openai client loaded successfully
+2025-07-16 23:13:59 - root - INFO - Loading label correction model...
+2025-07-16 23:14:00 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:14:00 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:14:00 - root - INFO - Model loaded successfully.
+2025-07-16 23:14:00 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:14:00] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:14:09 - root - INFO - openai client loaded successfully
+2025-07-16 23:14:09 - root - INFO - Loading label correction model...
+2025-07-16 23:14:10 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:14:10 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:14:10 - root - INFO - Model loaded successfully.
+2025-07-16 23:14:10 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:14:10] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:14:19 - root - INFO - openai client loaded successfully
+2025-07-16 23:14:19 - root - INFO - Loading label correction model...
+2025-07-16 23:14:19 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:14:19 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:14:19 - root - INFO - Model loaded successfully.
+2025-07-16 23:14:19 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:14:19] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:14:29 - root - INFO - openai client loaded successfully
+2025-07-16 23:14:29 - root - INFO - Loading label correction model...
+2025-07-16 23:14:30 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:14:30 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:14:30 - root - INFO - Model loaded successfully.
+2025-07-16 23:14:30 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:14:30] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:14:39 - root - INFO - openai client loaded successfully
+2025-07-16 23:14:39 - root - INFO - Loading label correction model...
+2025-07-16 23:14:40 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:14:40 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:14:40 - root - INFO - Model loaded successfully.
+2025-07-16 23:14:40 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:14:40] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:14:48 - root - INFO - openai client loaded successfully
+2025-07-16 23:14:48 - root - INFO - Loading label correction model...
+2025-07-16 23:14:49 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:14:50 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:14:50 - root - INFO - Model loaded successfully.
+2025-07-16 23:14:50 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:14:50] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:14:59 - root - INFO - openai client loaded successfully
+2025-07-16 23:14:59 - root - INFO - Loading label correction model...
+2025-07-16 23:15:00 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:15:00 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:15:00 - root - INFO - Model loaded successfully.
+2025-07-16 23:15:00 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:15:00] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:15:09 - root - INFO - openai client loaded successfully
+2025-07-16 23:15:09 - root - INFO - Loading label correction model...
+2025-07-16 23:15:10 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:15:10 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:15:10 - root - INFO - Model loaded successfully.
+2025-07-16 23:15:10 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:15:10] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:15:19 - root - INFO - openai client loaded successfully
+2025-07-16 23:15:19 - root - INFO - Loading label correction model...
+2025-07-16 23:15:19 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:15:19 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:15:20 - root - INFO - Model loaded successfully.
+2025-07-16 23:15:20 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:15:20] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:15:29 - root - INFO - openai client loaded successfully
+2025-07-16 23:15:29 - root - INFO - Loading label correction model...
+2025-07-16 23:15:30 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:15:30 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:15:30 - root - INFO - Model loaded successfully.
+2025-07-16 23:15:30 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:15:30] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:15:39 - root - INFO - openai client loaded successfully
+2025-07-16 23:15:39 - root - INFO - Loading label correction model...
+2025-07-16 23:15:40 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:15:41 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:15:41 - root - INFO - Model loaded successfully.
+2025-07-16 23:15:41 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:15:41] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:15:49 - root - INFO - openai client loaded successfully
+2025-07-16 23:15:49 - root - INFO - Loading label correction model...
+2025-07-16 23:15:49 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:15:49 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:15:50 - root - INFO - Model loaded successfully.
+2025-07-16 23:15:50 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:15:50] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:15:51 - werkzeug - INFO -  * Detected change in '/home/sarfraz/foxtek/sproj/mlproj_whisper/proj_whisper/main.py', reloading
+2025-07-16 23:15:52 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 23:16:17 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 23:16:17 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 23:16:17 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:16:17 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 23:16:17 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [disable_jit_profiling, allow_tf32]
+2025-07-16 23:16:17 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 23:16:17 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:16:17 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 23:16:18 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:16:18 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 23:16:18 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 23:16:18 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:16:18 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 23:16:18 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 23:16:19 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.29.79.0:5000
+2025-07-16 23:16:19 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 23:16:19 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 23:16:25 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 23:16:25 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 23:16:25 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:16:25 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 23:16:25 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [allow_tf32, disable_jit_profiling]
+2025-07-16 23:16:25 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 23:16:25 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:16:25 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 23:16:26 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:16:26 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 23:16:26 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 23:16:26 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:16:26 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 23:16:26 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 23:16:27 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 23:16:27 - werkzeug - INFO -  * Debugger PIN: 144-133-759
+2025-07-16 23:16:31 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:16:31] "GET / HTTP/1.1" 200 -
+2025-07-16 23:16:32 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:16:32] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-16 23:16:34 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:16:34] "GET /start HTTP/1.1" 200 -
+2025-07-16 23:16:47 - root - INFO - openai client loaded successfully
+2025-07-16 23:16:47 - root - INFO - Loading label correction model...
+2025-07-16 23:16:48 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:16:48 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:16:48 - root - INFO - Model loaded successfully.
+2025-07-16 23:16:47 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:16:47] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-16 23:16:56 - root - INFO - openai client loaded successfully
+2025-07-16 23:16:56 - root - INFO - Loading label correction model...
+2025-07-16 23:16:57 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:16:57 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:16:58 - root - INFO - Model loaded successfully.
+2025-07-16 23:16:58 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:16:58] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-16 23:17:06 - root - INFO - openai client loaded successfully
+2025-07-16 23:17:06 - root - INFO - Loading label correction model...
+2025-07-16 23:17:07 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:17:07 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:17:07 - root - INFO - Model loaded successfully.
+2025-07-16 23:17:07 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:17:07] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-16 23:17:16 - root - INFO - openai client loaded successfully
+2025-07-16 23:17:16 - root - INFO - Loading label correction model...
+2025-07-16 23:17:18 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:17:18 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:17:18 - root - INFO - Model loaded successfully.
+2025-07-16 23:17:19 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:17:19] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-16 23:17:26 - root - INFO - openai client loaded successfully
+2025-07-16 23:17:26 - root - INFO - Loading label correction model...
+2025-07-16 23:17:27 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:17:27 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:17:27 - root - INFO - Model loaded successfully.
+2025-07-16 23:17:27 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:17:27] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-16 23:17:36 - root - INFO - openai client loaded successfully
+2025-07-16 23:17:36 - root - INFO - Loading label correction model...
+2025-07-16 23:17:37 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:17:37 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:17:37 - root - INFO - Model loaded successfully.
+2025-07-16 23:17:38 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:17:38] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-16 23:17:47 - root - INFO - openai client loaded successfully
+2025-07-16 23:17:47 - root - INFO - Loading label correction model...
+2025-07-16 23:17:48 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:17:48 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:17:48 - root - INFO - Model loaded successfully.
+2025-07-16 23:17:48 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:17:48] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-16 23:17:56 - root - INFO - openai client loaded successfully
+2025-07-16 23:17:56 - root - INFO - Loading label correction model...
+2025-07-16 23:17:56 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:17:57 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:17:57 - root - INFO - Model loaded successfully.
+2025-07-16 23:17:57 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:17:57] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-16 23:18:06 - root - INFO - openai client loaded successfully
+2025-07-16 23:18:06 - root - INFO - Loading label correction model...
+2025-07-16 23:18:07 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:18:07 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:18:07 - root - INFO - Model loaded successfully.
+2025-07-16 23:18:08 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:18:08] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-16 23:18:16 - root - INFO - openai client loaded successfully
+2025-07-16 23:18:16 - root - INFO - Loading label correction model...
+2025-07-16 23:18:17 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:18:17 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:18:17 - root - INFO - Model loaded successfully.
+2025-07-16 23:18:17 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:18:17] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-16 23:18:18 - werkzeug - INFO -  * Detected change in '/home/sarfraz/foxtek/sproj/mlproj_whisper/proj_whisper/main.py', reloading
+2025-07-16 23:18:19 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 23:18:26 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 23:18:26 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 23:18:26 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:18:26 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 23:18:26 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [disable_jit_profiling, allow_tf32]
+2025-07-16 23:18:26 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 23:18:26 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:18:26 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 23:18:27 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:18:27 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 23:18:27 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 23:18:27 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:18:27 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 23:18:27 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 23:18:28 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 23:18:28 - werkzeug - INFO -  * Debugger PIN: 144-133-759
+2025-07-16 23:18:28 - root - INFO - openai client loaded successfully
+2025-07-16 23:18:28 - root - INFO - Loading label correction model...
+2025-07-16 23:18:29 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:18:29 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:18:30 - root - INFO - Model loaded successfully.
+2025-07-16 23:18:30 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:18:30] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:18:40 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 23:18:40 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 23:18:40 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:18:40 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 23:18:40 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [disable_jit_profiling, allow_tf32]
+2025-07-16 23:18:40 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 23:18:40 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:18:40 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 23:18:42 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:18:42 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 23:18:42 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 23:18:42 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:18:42 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 23:18:42 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 23:18:42 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.29.79.0:5000
+2025-07-16 23:18:42 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 23:18:42 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 23:18:49 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 23:18:49 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 23:18:49 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:18:49 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 23:18:49 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [disable_jit_profiling, allow_tf32]
+2025-07-16 23:18:49 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 23:18:49 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:18:49 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 23:18:50 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:18:50 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 23:18:50 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 23:18:50 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:18:50 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 23:18:50 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 23:18:51 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 23:18:51 - werkzeug - INFO -  * Debugger PIN: 144-133-759
+2025-07-16 23:18:51 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:18:51] "GET / HTTP/1.1" 200 -
+2025-07-16 23:18:51 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:18:51] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-16 23:18:54 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:18:54] "GET /start HTTP/1.1" 200 -
+2025-07-16 23:19:04 - root - INFO - openai client loaded successfully
+2025-07-16 23:19:04 - root - INFO - Loading label correction model...
+2025-07-16 23:19:05 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:19:05 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:19:06 - root - INFO - Model loaded successfully.
+2025-07-16 23:19:06 - root - INFO - Loading diarisation model...
+2025-07-16 23:19:07 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.5.4 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--segmentation/snapshots/c4c8ceafcbb3a7a280c2d357aee9fbc9b0be7f9b/pytorch_model.bin`
+2025-07-16 23:19:07 - speechbrain.utils.fetching - INFO - Fetch hyperparams.yaml: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/hyperparams.yaml'
+2025-07-16 23:19:07 - speechbrain.utils.fetching - INFO - Fetch custom.py: Fetching from HuggingFace Hub 'speechbrain/spkrec-ecapa-voxceleb' if not cached
+2025-07-16 23:19:08 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:19:08 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _load
+2025-07-16 23:19:08 - speechbrain.utils.checkpoints - DEBUG - Registered parameter transfer hook for _load
+2025-07-16 23:19:08 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:19:08 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load_if_possible
+2025-07-16 23:19:08 - speechbrain.utils.parameter_transfer - DEBUG - Collecting files (or symlinks) for pretraining in /home/sarfraz/.cache/torch/pyannote/speechbrain.
+2025-07-16 23:19:08 - speechbrain.utils.fetching - INFO - Fetch embedding_model.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt'
+2025-07-16 23:19:08 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["embedding_model"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:19:08 - speechbrain.utils.fetching - INFO - Fetch mean_var_norm_emb.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt'
+2025-07-16 23:19:08 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["mean_var_norm_emb"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:19:08 - speechbrain.utils.fetching - INFO - Fetch classifier.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt'
+2025-07-16 23:19:08 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["classifier"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:19:08 - speechbrain.utils.fetching - INFO - Fetch label_encoder.txt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt'
+2025-07-16 23:19:08 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["label_encoder"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:19:08 - speechbrain.utils.parameter_transfer - INFO - Loading pretrained files for: embedding_model, mean_var_norm_emb, classifier, label_encoder
+2025-07-16 23:19:08 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): embedding_model -> /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:19:08 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): mean_var_norm_emb -> /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:19:08 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): classifier -> /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:19:08 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): label_encoder -> /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:19:08 - speechbrain.dataio.encoder - DEBUG - Loaded categorical encoding from /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:19:08 - root - INFO - Model loaded successfully.
+2025-07-16 23:19:08 - root - INFO - Starting diarization process
+2025-07-16 23:19:15 - root - INFO - openai client loaded successfully
+2025-07-16 23:19:15 - root - INFO - Loading label correction model...
+2025-07-16 23:19:17 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:19:18 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:19:18 - root - INFO - Model loaded successfully.
+2025-07-16 23:19:18 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:19:18] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:19:22 - root - INFO - Diarization completed successfully
+2025-07-16 23:19:22 - root - INFO - segmenting audio
+2025-07-16 23:19:22 - root - INFO - Skipping segment from 30 to 9801 ms, duration is less than 500 ms
+2025-07-16 23:19:22 - root - INFO - Segment: SPEAKER_00, Start: 30, End: 9801
+2025-07-16 23:19:22 - root - INFO - Skipping segment from 739 to 3102 ms, duration is less than 500 ms
+2025-07-16 23:19:22 - root - INFO - Segment: SPEAKER_01, Start: 739, End: 3102
+2025-07-16 23:19:22 - root - INFO - Audio segmentation completed successfully.
+2025-07-16 23:19:22 - root - INFO - Audio segments created successfully
+2025-07-16 23:19:22 - root - INFO - Starting label correction process
+2025-07-16 23:19:22 - root - INFO - Database connection established successfully.
+2025-07-16 23:19:22 - root - INFO - Processing segment with label: SPEAKER_00
+2025-07-16 23:24:24 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 23:24:24 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 23:24:24 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:24:24 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 23:24:25 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [disable_jit_profiling, allow_tf32]
+2025-07-16 23:24:25 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 23:24:25 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:24:25 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 23:24:26 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:24:26 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 23:24:26 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 23:24:26 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:24:26 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 23:24:26 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 23:24:26 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.29.79.0:5000
+2025-07-16 23:24:26 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 23:24:26 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 23:24:33 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 23:24:33 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 23:24:33 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:24:33 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 23:24:33 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [disable_jit_profiling, allow_tf32]
+2025-07-16 23:24:33 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 23:24:33 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:24:33 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 23:24:34 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:24:34 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 23:24:34 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 23:24:34 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:24:34 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 23:24:34 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 23:24:35 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 23:24:35 - werkzeug - INFO -  * Debugger PIN: 144-133-759
+2025-07-16 23:24:35 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:24:35] "GET / HTTP/1.1" 200 -
+2025-07-16 23:24:35 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:24:35] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-16 23:24:39 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:24:39] "GET /start HTTP/1.1" 200 -
+2025-07-16 23:24:49 - root - INFO - openai client loaded successfully
+2025-07-16 23:24:49 - root - INFO - Loading label correction model...
+2025-07-16 23:24:51 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:24:51 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:24:51 - root - INFO - Model loaded successfully.
+2025-07-16 23:24:51 - root - INFO - Loading diarisation model...
+2025-07-16 23:24:54 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.5.4 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--segmentation/snapshots/c4c8ceafcbb3a7a280c2d357aee9fbc9b0be7f9b/pytorch_model.bin`
+2025-07-16 23:24:54 - speechbrain.utils.fetching - INFO - Fetch hyperparams.yaml: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/hyperparams.yaml'
+2025-07-16 23:24:54 - speechbrain.utils.fetching - INFO - Fetch custom.py: Fetching from HuggingFace Hub 'speechbrain/spkrec-ecapa-voxceleb' if not cached
+2025-07-16 23:24:54 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:24:54 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _load
+2025-07-16 23:24:54 - speechbrain.utils.checkpoints - DEBUG - Registered parameter transfer hook for _load
+2025-07-16 23:24:54 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:24:54 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load_if_possible
+2025-07-16 23:24:54 - speechbrain.utils.parameter_transfer - DEBUG - Collecting files (or symlinks) for pretraining in /home/sarfraz/.cache/torch/pyannote/speechbrain.
+2025-07-16 23:24:54 - speechbrain.utils.fetching - INFO - Fetch embedding_model.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt'
+2025-07-16 23:24:54 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["embedding_model"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:24:54 - speechbrain.utils.fetching - INFO - Fetch mean_var_norm_emb.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt'
+2025-07-16 23:24:54 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["mean_var_norm_emb"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:24:54 - speechbrain.utils.fetching - INFO - Fetch classifier.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt'
+2025-07-16 23:24:54 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["classifier"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:24:54 - speechbrain.utils.fetching - INFO - Fetch label_encoder.txt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt'
+2025-07-16 23:24:54 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["label_encoder"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:24:54 - speechbrain.utils.parameter_transfer - INFO - Loading pretrained files for: embedding_model, mean_var_norm_emb, classifier, label_encoder
+2025-07-16 23:24:54 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): embedding_model -> /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:24:54 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): mean_var_norm_emb -> /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:24:54 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): classifier -> /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:24:54 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): label_encoder -> /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:24:54 - speechbrain.dataio.encoder - DEBUG - Loaded categorical encoding from /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:24:54 - root - INFO - Model loaded successfully.
+2025-07-16 23:24:54 - root - INFO - Starting diarization process
+2025-07-16 23:25:00 - root - INFO - openai client loaded successfully
+2025-07-16 23:25:00 - root - INFO - Loading label correction model...
+2025-07-16 23:25:01 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:25:02 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:25:02 - root - INFO - Model loaded successfully.
+2025-07-16 23:25:03 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:25:03] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:25:10 - root - INFO - openai client loaded successfully
+2025-07-16 23:25:10 - root - INFO - Loading label correction model...
+2025-07-16 23:25:10 - root - INFO - Diarization completed successfully
+2025-07-16 23:25:10 - root - INFO - segmenting audio
+2025-07-16 23:25:10 - root - INFO - Skipping segment from 891 to 9970 ms, duration is less than 500 ms
+2025-07-16 23:25:10 - root - INFO - Segment: SPEAKER_00, Start: 891, End: 9970
+2025-07-16 23:25:10 - root - INFO - Audio segmentation completed successfully.
+2025-07-16 23:25:10 - root - INFO - Audio segments created successfully
+2025-07-16 23:25:10 - root - INFO - Starting label correction process
+2025-07-16 23:25:10 - root - INFO - Database connection established successfully.
+2025-07-16 23:25:10 - root - INFO - Processing segment with label: SPEAKER_00
+2025-07-16 23:25:10 - root - INFO - Both speaker vectors are empty, skipping label correction.
+2025-07-16 23:25:10 - root - INFO - Database connection closed successfully.
+2025-07-16 23:25:10 - root - INFO - Label correction process completed successfully
+2025-07-16 23:25:10 - root - INFO - Starting transcription process
+2025-07-16 23:25:10 - root - INFO - Database connection established successfully
+2025-07-16 23:25:11 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:25:11 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:25:11 - root - INFO - Model loaded successfully.
+2025-07-16 23:25:11 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:25:11] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:25:18 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-07-16 23:25:18 - root - INFO - Transcription process completed successfully
+2025-07-16 23:25:18 - root - INFO - Database connection closed successfully
+2025-07-16 23:25:18 - root - INFO - Cursor closed successfully
+2025-07-16 23:25:18 - root - INFO - Audio segments inserted successfully.
+2025-07-16 23:25:18 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:25:18] "POST /upload HTTP/1.1" 200 -
+2025-07-16 23:25:19 - root - INFO - openai client loaded successfully
+2025-07-16 23:25:19 - root - INFO - Loading label correction model...
+2025-07-16 23:25:20 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:25:20 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:25:20 - root - INFO - Model loaded successfully.
+2025-07-16 23:25:21 - root - INFO - Loading diarisation model...
+2025-07-16 23:25:22 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.5.4 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--segmentation/snapshots/c4c8ceafcbb3a7a280c2d357aee9fbc9b0be7f9b/pytorch_model.bin`
+2025-07-16 23:25:22 - speechbrain.utils.fetching - INFO - Fetch hyperparams.yaml: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/hyperparams.yaml'
+2025-07-16 23:25:22 - speechbrain.utils.fetching - INFO - Fetch custom.py: Fetching from HuggingFace Hub 'speechbrain/spkrec-ecapa-voxceleb' if not cached
+2025-07-16 23:25:23 - speechbrain.utils.parameter_transfer - DEBUG - Collecting files (or symlinks) for pretraining in /home/sarfraz/.cache/torch/pyannote/speechbrain.
+2025-07-16 23:25:23 - speechbrain.utils.fetching - INFO - Fetch embedding_model.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt'
+2025-07-16 23:25:23 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["embedding_model"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:25:23 - speechbrain.utils.fetching - INFO - Fetch mean_var_norm_emb.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt'
+2025-07-16 23:25:23 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["mean_var_norm_emb"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:25:23 - speechbrain.utils.fetching - INFO - Fetch classifier.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt'
+2025-07-16 23:25:23 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["classifier"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:25:23 - speechbrain.utils.fetching - INFO - Fetch label_encoder.txt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt'
+2025-07-16 23:25:23 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["label_encoder"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:25:23 - speechbrain.utils.parameter_transfer - INFO - Loading pretrained files for: embedding_model, mean_var_norm_emb, classifier, label_encoder
+2025-07-16 23:25:23 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): embedding_model -> /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:25:23 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): mean_var_norm_emb -> /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:25:23 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): classifier -> /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:25:23 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): label_encoder -> /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:25:23 - speechbrain.dataio.encoder - DEBUG - Loaded categorical encoding from /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:25:23 - root - INFO - Model loaded successfully.
+2025-07-16 23:25:23 - root - INFO - Starting diarization process
+2025-07-16 23:25:29 - root - INFO - openai client loaded successfully
+2025-07-16 23:25:29 - root - INFO - Loading label correction model...
+2025-07-16 23:25:32 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:25:32 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:25:32 - root - INFO - Model loaded successfully.
+2025-07-16 23:25:33 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:25:33] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:25:40 - root - INFO - Diarization completed successfully
+2025-07-16 23:25:40 - root - INFO - segmenting audio
+2025-07-16 23:25:40 - root - INFO - Skipping segment from 30 to 1532 ms, duration is less than 500 ms
+2025-07-16 23:25:40 - root - INFO - Segment: SPEAKER_00, Start: 30, End: 1532
+2025-07-16 23:25:40 - root - INFO - Audio segmentation completed successfully.
+2025-07-16 23:25:40 - root - INFO - Audio segments created successfully
+2025-07-16 23:25:40 - root - INFO - Starting label correction process
+2025-07-16 23:25:40 - root - INFO - Database connection established successfully.
+2025-07-16 23:25:40 - root - INFO - Processing segment with label: SPEAKER_00
+2025-07-16 23:25:40 - root - INFO - Database connection closed successfully.
+2025-07-16 23:25:40 - root - INFO - Label correction process completed successfully
+2025-07-16 23:25:40 - root - INFO - Starting transcription process
+2025-07-16 23:25:40 - root - INFO - Database connection established successfully
+2025-07-16 23:25:40 - root - INFO - openai client loaded successfully
+2025-07-16 23:25:40 - root - INFO - Loading label correction model...
+2025-07-16 23:25:41 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:25:41 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:25:41 - root - INFO - Model loaded successfully.
+2025-07-16 23:25:41 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:25:41] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:25:43 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-07-16 23:25:43 - root - INFO - Transcription process completed successfully
+2025-07-16 23:25:42 - root - INFO - Database connection closed successfully
+2025-07-16 23:25:42 - root - INFO - Cursor closed successfully
+2025-07-16 23:25:42 - root - INFO - Audio segments inserted successfully.
+2025-07-16 23:25:42 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:25:42] "POST /upload HTTP/1.1" 200 -
+2025-07-16 23:25:59 - root - INFO - openai client loaded successfully
+2025-07-16 23:25:59 - root - INFO - Loading label correction model...
+2025-07-16 23:26:01 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:26:01 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:26:02 - root - INFO - Model loaded successfully.
+2025-07-16 23:26:02 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:26:02] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:26:10 - root - INFO - openai client loaded successfully
+2025-07-16 23:26:10 - root - INFO - Loading label correction model...
+2025-07-16 23:26:11 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:26:11 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:26:11 - root - INFO - Model loaded successfully.
+2025-07-16 23:26:11 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:26:11] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:26:19 - root - INFO - openai client loaded successfully
+2025-07-16 23:26:19 - root - INFO - Loading label correction model...
+2025-07-16 23:26:20 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:26:20 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:26:20 - root - INFO - Model loaded successfully.
+2025-07-16 23:26:21 - root - INFO - Loading diarisation model...
+2025-07-16 23:26:22 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.5.4 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--segmentation/snapshots/c4c8ceafcbb3a7a280c2d357aee9fbc9b0be7f9b/pytorch_model.bin`
+2025-07-16 23:26:22 - speechbrain.utils.fetching - INFO - Fetch hyperparams.yaml: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/hyperparams.yaml'
+2025-07-16 23:26:22 - speechbrain.utils.fetching - INFO - Fetch custom.py: Fetching from HuggingFace Hub 'speechbrain/spkrec-ecapa-voxceleb' if not cached
+2025-07-16 23:26:23 - speechbrain.utils.parameter_transfer - DEBUG - Collecting files (or symlinks) for pretraining in /home/sarfraz/.cache/torch/pyannote/speechbrain.
+2025-07-16 23:26:23 - speechbrain.utils.fetching - INFO - Fetch embedding_model.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt'
+2025-07-16 23:26:23 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["embedding_model"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:26:23 - speechbrain.utils.fetching - INFO - Fetch mean_var_norm_emb.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt'
+2025-07-16 23:26:23 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["mean_var_norm_emb"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:26:23 - speechbrain.utils.fetching - INFO - Fetch classifier.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt'
+2025-07-16 23:26:23 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["classifier"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:26:23 - speechbrain.utils.fetching - INFO - Fetch label_encoder.txt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt'
+2025-07-16 23:26:23 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["label_encoder"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:26:23 - speechbrain.utils.parameter_transfer - INFO - Loading pretrained files for: embedding_model, mean_var_norm_emb, classifier, label_encoder
+2025-07-16 23:26:23 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): embedding_model -> /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:26:23 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): mean_var_norm_emb -> /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:26:23 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): classifier -> /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:26:23 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): label_encoder -> /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:26:23 - speechbrain.dataio.encoder - DEBUG - Loaded categorical encoding from /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:26:23 - root - INFO - Model loaded successfully.
+2025-07-16 23:26:23 - root - INFO - Starting diarization process
+2025-07-16 23:26:23 - root - INFO - Diarization completed successfully
+2025-07-16 23:26:23 - root - INFO - segmenting audio
+2025-07-16 23:26:23 - root - INFO - Audio segmentation completed successfully.
+2025-07-16 23:26:23 - root - INFO - Audio segments created successfully
+2025-07-16 23:26:23 - root - INFO - Starting label correction process
+2025-07-16 23:26:23 - root - INFO - Database connection established successfully.
+2025-07-16 23:26:23 - root - INFO - Database connection closed successfully.
+2025-07-16 23:26:23 - root - INFO - Label correction process completed successfully
+2025-07-16 23:26:23 - root - INFO - Starting transcription process
+2025-07-16 23:26:23 - root - INFO - Database connection established successfully
+2025-07-16 23:26:23 - root - INFO - Transcription process completed successfully
+2025-07-16 23:26:23 - root - INFO - Database connection closed successfully
+2025-07-16 23:26:23 - root - INFO - Cursor closed successfully
+2025-07-16 23:26:23 - root - INFO - Audio segments inserted successfully.
+2025-07-16 23:26:23 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:26:23] "POST /upload HTTP/1.1" 200 -
+2025-07-16 23:26:30 - root - INFO - openai client loaded successfully
+2025-07-16 23:26:30 - root - INFO - Loading label correction model...
+2025-07-16 23:26:30 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:26:31 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:26:31 - root - INFO - Model loaded successfully.
+2025-07-16 23:26:31 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:26:31] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:26:40 - root - INFO - openai client loaded successfully
+2025-07-16 23:26:40 - root - INFO - Loading label correction model...
+2025-07-16 23:26:42 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:26:42 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:26:42 - root - INFO - Model loaded successfully.
+2025-07-16 23:26:42 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:26:42] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:26:49 - root - INFO - openai client loaded successfully
+2025-07-16 23:26:49 - root - INFO - Loading label correction model...
+2025-07-16 23:26:51 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:26:51 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:26:51 - root - INFO - Model loaded successfully.
+2025-07-16 23:26:51 - root - INFO - Loading diarisation model...
+2025-07-16 23:26:52 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.5.4 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--segmentation/snapshots/c4c8ceafcbb3a7a280c2d357aee9fbc9b0be7f9b/pytorch_model.bin`
+2025-07-16 23:26:52 - speechbrain.utils.fetching - INFO - Fetch hyperparams.yaml: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/hyperparams.yaml'
+2025-07-16 23:26:52 - speechbrain.utils.fetching - INFO - Fetch custom.py: Fetching from HuggingFace Hub 'speechbrain/spkrec-ecapa-voxceleb' if not cached
+2025-07-16 23:26:53 - speechbrain.utils.parameter_transfer - DEBUG - Collecting files (or symlinks) for pretraining in /home/sarfraz/.cache/torch/pyannote/speechbrain.
+2025-07-16 23:26:53 - speechbrain.utils.fetching - INFO - Fetch embedding_model.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt'
+2025-07-16 23:26:53 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["embedding_model"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:26:53 - speechbrain.utils.fetching - INFO - Fetch mean_var_norm_emb.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt'
+2025-07-16 23:26:53 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["mean_var_norm_emb"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:26:53 - speechbrain.utils.fetching - INFO - Fetch classifier.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt'
+2025-07-16 23:26:53 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["classifier"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:26:53 - speechbrain.utils.fetching - INFO - Fetch label_encoder.txt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt'
+2025-07-16 23:26:53 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["label_encoder"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:26:53 - speechbrain.utils.parameter_transfer - INFO - Loading pretrained files for: embedding_model, mean_var_norm_emb, classifier, label_encoder
+2025-07-16 23:26:53 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): embedding_model -> /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:26:53 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): mean_var_norm_emb -> /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:26:53 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): classifier -> /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:26:53 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): label_encoder -> /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:26:53 - speechbrain.dataio.encoder - DEBUG - Loaded categorical encoding from /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:26:53 - root - INFO - Model loaded successfully.
+2025-07-16 23:26:53 - root - INFO - Starting diarization process
+2025-07-16 23:26:53 - root - INFO - Diarization completed successfully
+2025-07-16 23:26:53 - root - INFO - segmenting audio
+2025-07-16 23:26:53 - root - INFO - Audio segmentation completed successfully.
+2025-07-16 23:26:53 - root - INFO - Audio segments created successfully
+2025-07-16 23:26:53 - root - INFO - Starting label correction process
+2025-07-16 23:26:53 - root - INFO - Database connection established successfully.
+2025-07-16 23:26:53 - root - INFO - Database connection closed successfully.
+2025-07-16 23:26:53 - root - INFO - Label correction process completed successfully
+2025-07-16 23:26:53 - root - INFO - Starting transcription process
+2025-07-16 23:26:53 - root - INFO - Database connection established successfully
+2025-07-16 23:26:53 - root - INFO - Transcription process completed successfully
+2025-07-16 23:26:53 - root - INFO - Database connection closed successfully
+2025-07-16 23:26:53 - root - INFO - Cursor closed successfully
+2025-07-16 23:26:53 - root - INFO - Audio segments inserted successfully.
+2025-07-16 23:26:53 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:26:53] "POST /upload HTTP/1.1" 200 -
+2025-07-16 23:26:59 - root - INFO - openai client loaded successfully
+2025-07-16 23:26:59 - root - INFO - Loading label correction model...
+2025-07-16 23:27:00 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:27:01 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:27:01 - root - INFO - Model loaded successfully.
+2025-07-16 23:27:01 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:27:01] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:27:10 - root - INFO - openai client loaded successfully
+2025-07-16 23:27:10 - root - INFO - Loading label correction model...
+2025-07-16 23:27:11 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:27:11 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:27:11 - root - INFO - Model loaded successfully.
+2025-07-16 23:27:12 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:27:12] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:27:19 - root - INFO - openai client loaded successfully
+2025-07-16 23:27:19 - root - INFO - Loading label correction model...
+2025-07-16 23:27:20 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:27:20 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:27:20 - root - INFO - Model loaded successfully.
+2025-07-16 23:27:20 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:27:20] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:27:30 - root - INFO - openai client loaded successfully
+2025-07-16 23:27:30 - root - INFO - Loading label correction model...
+2025-07-16 23:27:30 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:27:31 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:27:31 - root - INFO - Model loaded successfully.
+2025-07-16 23:27:31 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:27:31] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:27:40 - root - INFO - openai client loaded successfully
+2025-07-16 23:27:40 - root - INFO - Loading label correction model...
+2025-07-16 23:27:41 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:27:41 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:27:41 - root - INFO - Model loaded successfully.
+2025-07-16 23:27:41 - root - INFO - Loading diarisation model...
+2025-07-16 23:27:42 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.5.4 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--segmentation/snapshots/c4c8ceafcbb3a7a280c2d357aee9fbc9b0be7f9b/pytorch_model.bin`
+2025-07-16 23:27:42 - speechbrain.utils.fetching - INFO - Fetch hyperparams.yaml: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/hyperparams.yaml'
+2025-07-16 23:27:42 - speechbrain.utils.fetching - INFO - Fetch custom.py: Fetching from HuggingFace Hub 'speechbrain/spkrec-ecapa-voxceleb' if not cached
+2025-07-16 23:27:43 - speechbrain.utils.parameter_transfer - DEBUG - Collecting files (or symlinks) for pretraining in /home/sarfraz/.cache/torch/pyannote/speechbrain.
+2025-07-16 23:27:43 - speechbrain.utils.fetching - INFO - Fetch embedding_model.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt'
+2025-07-16 23:27:43 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["embedding_model"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:27:43 - speechbrain.utils.fetching - INFO - Fetch mean_var_norm_emb.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt'
+2025-07-16 23:27:43 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["mean_var_norm_emb"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:27:43 - speechbrain.utils.fetching - INFO - Fetch classifier.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt'
+2025-07-16 23:27:43 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["classifier"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:27:43 - speechbrain.utils.fetching - INFO - Fetch label_encoder.txt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt'
+2025-07-16 23:27:43 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["label_encoder"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:27:43 - speechbrain.utils.parameter_transfer - INFO - Loading pretrained files for: embedding_model, mean_var_norm_emb, classifier, label_encoder
+2025-07-16 23:27:43 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): embedding_model -> /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:27:43 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): mean_var_norm_emb -> /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:27:43 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): classifier -> /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:27:43 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): label_encoder -> /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:27:43 - speechbrain.dataio.encoder - DEBUG - Loaded categorical encoding from /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:27:43 - root - INFO - Model loaded successfully.
+2025-07-16 23:27:43 - root - INFO - Starting diarization process
+2025-07-16 23:27:44 - root - INFO - Diarization completed successfully
+2025-07-16 23:27:44 - root - INFO - segmenting audio
+2025-07-16 23:27:44 - root - INFO - Skipping segment from 30 to 132 ms, duration is less than 500 ms
+2025-07-16 23:27:44 - root - INFO - Audio segmentation completed successfully.
+2025-07-16 23:27:44 - root - INFO - Audio segments created successfully
+2025-07-16 23:27:44 - root - INFO - Starting label correction process
+2025-07-16 23:27:44 - root - INFO - Database connection established successfully.
+2025-07-16 23:27:44 - root - INFO - Database connection closed successfully.
+2025-07-16 23:27:44 - root - INFO - Label correction process completed successfully
+2025-07-16 23:27:44 - root - INFO - Starting transcription process
+2025-07-16 23:27:44 - root - INFO - Database connection established successfully
+2025-07-16 23:27:44 - root - INFO - Transcription process completed successfully
+2025-07-16 23:27:44 - root - INFO - Database connection closed successfully
+2025-07-16 23:27:44 - root - INFO - Cursor closed successfully
+2025-07-16 23:27:44 - root - INFO - Audio segments inserted successfully.
+2025-07-16 23:27:44 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:27:44] "POST /upload HTTP/1.1" 200 -
+2025-07-16 23:27:50 - root - INFO - openai client loaded successfully
+2025-07-16 23:27:50 - root - INFO - Loading label correction model...
+2025-07-16 23:27:50 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:27:50 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:27:50 - root - INFO - Model loaded successfully.
+2025-07-16 23:27:51 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:27:51] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:28:28 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 23:28:28 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 23:28:28 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:28:28 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 23:28:28 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [allow_tf32, disable_jit_profiling]
+2025-07-16 23:28:28 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 23:28:28 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:28:28 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 23:28:29 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:28:29 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 23:28:29 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 23:28:29 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:28:29 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 23:28:29 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 23:28:30 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.29.79.0:5000
+2025-07-16 23:28:30 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 23:28:30 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 23:28:36 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 23:28:36 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 23:28:36 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:28:36 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 23:28:36 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [allow_tf32, disable_jit_profiling]
+2025-07-16 23:28:36 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 23:28:36 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:28:36 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 23:28:37 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:28:37 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 23:28:37 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 23:28:37 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:28:37 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 23:28:37 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 23:28:38 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 23:28:38 - werkzeug - INFO -  * Debugger PIN: 144-133-759
+2025-07-16 23:28:38 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:28:38] "GET / HTTP/1.1" 200 -
+2025-07-16 23:28:38 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:28:38] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-16 23:28:40 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:28:40] "GET /start HTTP/1.1" 200 -
+2025-07-16 23:28:52 - root - INFO - openai client loaded successfully
+2025-07-16 23:28:52 - root - INFO - Loading label correction model...
+2025-07-16 23:28:52 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:28:52 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:28:53 - root - INFO - Model loaded successfully.
+2025-07-16 23:28:53 - root - INFO - Loading diarisation model...
+2025-07-16 23:28:54 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.5.4 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--segmentation/snapshots/c4c8ceafcbb3a7a280c2d357aee9fbc9b0be7f9b/pytorch_model.bin`
+2025-07-16 23:28:54 - speechbrain.utils.fetching - INFO - Fetch hyperparams.yaml: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/hyperparams.yaml'
+2025-07-16 23:28:54 - speechbrain.utils.fetching - INFO - Fetch custom.py: Fetching from HuggingFace Hub 'speechbrain/spkrec-ecapa-voxceleb' if not cached
+2025-07-16 23:28:54 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:28:54 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _load
+2025-07-16 23:28:54 - speechbrain.utils.checkpoints - DEBUG - Registered parameter transfer hook for _load
+2025-07-16 23:28:54 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:28:54 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load_if_possible
+2025-07-16 23:28:54 - speechbrain.utils.parameter_transfer - DEBUG - Collecting files (or symlinks) for pretraining in /home/sarfraz/.cache/torch/pyannote/speechbrain.
+2025-07-16 23:28:54 - speechbrain.utils.fetching - INFO - Fetch embedding_model.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt'
+2025-07-16 23:28:54 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["embedding_model"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:28:54 - speechbrain.utils.fetching - INFO - Fetch mean_var_norm_emb.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt'
+2025-07-16 23:28:54 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["mean_var_norm_emb"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:28:54 - speechbrain.utils.fetching - INFO - Fetch classifier.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt'
+2025-07-16 23:28:54 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["classifier"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:28:54 - speechbrain.utils.fetching - INFO - Fetch label_encoder.txt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt'
+2025-07-16 23:28:54 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["label_encoder"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:28:54 - speechbrain.utils.parameter_transfer - INFO - Loading pretrained files for: embedding_model, mean_var_norm_emb, classifier, label_encoder
+2025-07-16 23:28:54 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): embedding_model -> /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:28:54 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): mean_var_norm_emb -> /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:28:54 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): classifier -> /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:28:54 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): label_encoder -> /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:28:55 - speechbrain.dataio.encoder - DEBUG - Loaded categorical encoding from /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:28:55 - root - INFO - Model loaded successfully.
+2025-07-16 23:28:55 - root - INFO - Starting diarization process
+2025-07-16 23:29:01 - root - INFO - openai client loaded successfully
+2025-07-16 23:29:01 - root - INFO - Loading label correction model...
+2025-07-16 23:29:02 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:29:03 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:29:03 - root - INFO - Model loaded successfully.
+2025-07-16 23:29:03 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:29:03] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:29:12 - root - INFO - openai client loaded successfully
+2025-07-16 23:29:12 - root - INFO - Loading label correction model...
+2025-07-16 23:29:12 - root - INFO - Diarization completed successfully
+2025-07-16 23:29:12 - root - INFO - segmenting audio
+2025-07-16 23:29:12 - root - INFO - Skipping segment from 233 to 9835 ms, duration is less than 500 ms
+2025-07-16 23:29:12 - root - INFO - Segment: SPEAKER_00, Start: 233, End: 9835
+2025-07-16 23:29:12 - root - INFO - Skipping segment from 739 to 1026 ms, duration is less than 500 ms
+2025-07-16 23:29:12 - root - INFO - Audio segmentation completed successfully.
+2025-07-16 23:29:12 - root - INFO - Audio segments created successfully
+2025-07-16 23:29:12 - root - INFO - Starting label correction process
+2025-07-16 23:29:12 - root - INFO - Database connection established successfully.
+2025-07-16 23:29:12 - root - INFO - Processing segment with label: SPEAKER_00
+2025-07-16 23:29:12 - root - INFO - Both speaker vectors are empty, skipping label correction.
+2025-07-16 23:29:12 - root - INFO - Database connection closed successfully.
+2025-07-16 23:29:12 - root - INFO - Label correction process completed successfully
+2025-07-16 23:29:12 - root - INFO - Starting transcription process
+2025-07-16 23:29:12 - root - INFO - Database connection established successfully
+2025-07-16 23:29:13 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:29:13 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:29:13 - root - INFO - Model loaded successfully.
+2025-07-16 23:29:13 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:29:13] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:29:19 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-07-16 23:29:19 - root - INFO - Transcription process completed successfully
+2025-07-16 23:29:19 - root - INFO - Database connection closed successfully
+2025-07-16 23:29:19 - root - INFO - Cursor closed successfully
+2025-07-16 23:29:19 - root - INFO - Audio segments inserted successfully.
+2025-07-16 23:29:19 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:29:19] "POST /upload HTTP/1.1" 200 -
+2025-07-16 23:29:22 - root - INFO - openai client loaded successfully
+2025-07-16 23:29:22 - root - INFO - Loading label correction model...
+2025-07-16 23:29:23 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:29:23 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:29:23 - root - INFO - Model loaded successfully.
+2025-07-16 23:29:23 - root - INFO - Loading diarisation model...
+2025-07-16 23:29:24 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.5.4 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--segmentation/snapshots/c4c8ceafcbb3a7a280c2d357aee9fbc9b0be7f9b/pytorch_model.bin`
+2025-07-16 23:29:24 - speechbrain.utils.fetching - INFO - Fetch hyperparams.yaml: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/hyperparams.yaml'
+2025-07-16 23:29:24 - speechbrain.utils.fetching - INFO - Fetch custom.py: Fetching from HuggingFace Hub 'speechbrain/spkrec-ecapa-voxceleb' if not cached
+2025-07-16 23:29:24 - speechbrain.utils.parameter_transfer - DEBUG - Collecting files (or symlinks) for pretraining in /home/sarfraz/.cache/torch/pyannote/speechbrain.
+2025-07-16 23:29:24 - speechbrain.utils.fetching - INFO - Fetch embedding_model.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt'
+2025-07-16 23:29:24 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["embedding_model"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:29:24 - speechbrain.utils.fetching - INFO - Fetch mean_var_norm_emb.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt'
+2025-07-16 23:29:24 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["mean_var_norm_emb"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:29:24 - speechbrain.utils.fetching - INFO - Fetch classifier.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt'
+2025-07-16 23:29:24 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["classifier"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:29:24 - speechbrain.utils.fetching - INFO - Fetch label_encoder.txt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt'
+2025-07-16 23:29:24 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["label_encoder"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:29:24 - speechbrain.utils.parameter_transfer - INFO - Loading pretrained files for: embedding_model, mean_var_norm_emb, classifier, label_encoder
+2025-07-16 23:29:24 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): embedding_model -> /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:29:24 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): mean_var_norm_emb -> /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:29:24 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): classifier -> /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:29:24 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): label_encoder -> /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:29:24 - speechbrain.dataio.encoder - DEBUG - Loaded categorical encoding from /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:29:24 - root - INFO - Model loaded successfully.
+2025-07-16 23:29:24 - root - INFO - Starting diarization process
+2025-07-16 23:29:25 - root - INFO - Diarization completed successfully
+2025-07-16 23:29:25 - root - INFO - segmenting audio
+2025-07-16 23:29:25 - root - INFO - Audio segmentation completed successfully.
+2025-07-16 23:29:25 - root - INFO - Audio segments created successfully
+2025-07-16 23:29:25 - root - INFO - Starting label correction process
+2025-07-16 23:29:25 - root - INFO - Database connection established successfully.
+2025-07-16 23:29:25 - root - INFO - Database connection closed successfully.
+2025-07-16 23:29:25 - root - INFO - Label correction process completed successfully
+2025-07-16 23:29:25 - root - INFO - Starting transcription process
+2025-07-16 23:29:25 - root - INFO - Database connection established successfully
+2025-07-16 23:29:25 - root - INFO - Transcription process completed successfully
+2025-07-16 23:29:25 - root - INFO - Database connection closed successfully
+2025-07-16 23:29:25 - root - INFO - Cursor closed successfully
+2025-07-16 23:29:25 - root - INFO - Audio segments inserted successfully.
+2025-07-16 23:29:25 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:29:25] "POST /upload HTTP/1.1" 200 -
+2025-07-16 23:29:31 - root - INFO - openai client loaded successfully
+2025-07-16 23:29:31 - root - INFO - Loading label correction model...
+2025-07-16 23:29:32 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:29:32 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:29:32 - root - INFO - Model loaded successfully.
+2025-07-16 23:29:32 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:29:32] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:29:42 - root - INFO - openai client loaded successfully
+2025-07-16 23:29:42 - root - INFO - Loading label correction model...
+2025-07-16 23:29:42 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:29:43 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:29:43 - root - INFO - Model loaded successfully.
+2025-07-16 23:29:43 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:29:43] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:29:52 - root - INFO - openai client loaded successfully
+2025-07-16 23:29:52 - root - INFO - Loading label correction model...
+2025-07-16 23:29:52 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:29:52 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:29:53 - root - INFO - Model loaded successfully.
+2025-07-16 23:29:53 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:29:53] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:30:01 - root - INFO - openai client loaded successfully
+2025-07-16 23:30:01 - root - INFO - Loading label correction model...
+2025-07-16 23:30:02 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:30:02 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:30:02 - root - INFO - Model loaded successfully.
+2025-07-16 23:30:03 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:30:03] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:30:11 - root - INFO - openai client loaded successfully
+2025-07-16 23:30:11 - root - INFO - Loading label correction model...
+2025-07-16 23:30:13 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:30:13 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:30:13 - root - INFO - Model loaded successfully.
+2025-07-16 23:30:13 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:30:13] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:30:22 - root - INFO - openai client loaded successfully
+2025-07-16 23:30:22 - root - INFO - Loading label correction model...
+2025-07-16 23:30:23 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:30:23 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:30:23 - root - INFO - Model loaded successfully.
+2025-07-16 23:30:23 - root - INFO - Loading diarisation model...
+2025-07-16 23:30:25 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.5.4 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--segmentation/snapshots/c4c8ceafcbb3a7a280c2d357aee9fbc9b0be7f9b/pytorch_model.bin`
+2025-07-16 23:30:25 - speechbrain.utils.fetching - INFO - Fetch hyperparams.yaml: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/hyperparams.yaml'
+2025-07-16 23:30:25 - speechbrain.utils.fetching - INFO - Fetch custom.py: Fetching from HuggingFace Hub 'speechbrain/spkrec-ecapa-voxceleb' if not cached
+2025-07-16 23:30:25 - speechbrain.utils.parameter_transfer - DEBUG - Collecting files (or symlinks) for pretraining in /home/sarfraz/.cache/torch/pyannote/speechbrain.
+2025-07-16 23:30:25 - speechbrain.utils.fetching - INFO - Fetch embedding_model.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt'
+2025-07-16 23:30:25 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["embedding_model"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:30:25 - speechbrain.utils.fetching - INFO - Fetch mean_var_norm_emb.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt'
+2025-07-16 23:30:25 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["mean_var_norm_emb"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:30:25 - speechbrain.utils.fetching - INFO - Fetch classifier.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt'
+2025-07-16 23:30:25 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["classifier"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:30:25 - speechbrain.utils.fetching - INFO - Fetch label_encoder.txt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt'
+2025-07-16 23:30:25 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["label_encoder"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:30:25 - speechbrain.utils.parameter_transfer - INFO - Loading pretrained files for: embedding_model, mean_var_norm_emb, classifier, label_encoder
+2025-07-16 23:30:25 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): embedding_model -> /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:30:25 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): mean_var_norm_emb -> /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:30:25 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): classifier -> /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:30:25 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): label_encoder -> /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:30:25 - speechbrain.dataio.encoder - DEBUG - Loaded categorical encoding from /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:30:25 - root - INFO - Model loaded successfully.
+2025-07-16 23:30:25 - root - INFO - Starting diarization process
+2025-07-16 23:30:26 - root - INFO - Diarization completed successfully
+2025-07-16 23:30:26 - root - INFO - segmenting audio
+2025-07-16 23:30:26 - root - INFO - Audio segmentation completed successfully.
+2025-07-16 23:30:26 - root - INFO - Audio segments created successfully
+2025-07-16 23:30:26 - root - INFO - Starting label correction process
+2025-07-16 23:30:26 - root - INFO - Database connection established successfully.
+2025-07-16 23:30:26 - root - INFO - Database connection closed successfully.
+2025-07-16 23:30:26 - root - INFO - Label correction process completed successfully
+2025-07-16 23:30:26 - root - INFO - Starting transcription process
+2025-07-16 23:30:26 - root - INFO - Database connection established successfully
+2025-07-16 23:30:26 - root - INFO - Transcription process completed successfully
+2025-07-16 23:30:26 - root - INFO - Database connection closed successfully
+2025-07-16 23:30:26 - root - INFO - Cursor closed successfully
+2025-07-16 23:30:26 - root - INFO - Audio segments inserted successfully.
+2025-07-16 23:30:26 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:30:26] "POST /upload HTTP/1.1" 200 -
+2025-07-16 23:30:31 - root - INFO - openai client loaded successfully
+2025-07-16 23:30:31 - root - INFO - Loading label correction model...
+2025-07-16 23:30:32 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:30:32 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:30:32 - root - INFO - Model loaded successfully.
+2025-07-16 23:30:32 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:30:32] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:30:35 - werkzeug - INFO -  * Detected change in '/home/sarfraz/foxtek/sproj/mlproj_whisper/proj_whisper/main.py', reloading
+2025-07-16 23:30:48 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 23:30:48 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 23:30:48 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:30:48 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 23:30:48 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [allow_tf32, disable_jit_profiling]
+2025-07-16 23:30:48 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 23:30:48 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:30:48 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 23:30:50 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:30:50 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 23:30:50 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 23:30:50 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:30:50 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 23:30:50 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 23:30:50 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.29.79.0:5000
+2025-07-16 23:30:50 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 23:30:50 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 23:30:57 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _speechbrain_save
+2025-07-16 23:30:57 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _speechbrain_load
+2025-07-16 23:30:57 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:30:57 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load
+2025-07-16 23:30:57 - speechbrain.utils.quirks - INFO - Applied quirks (see `speechbrain.utils.quirks`): [allow_tf32, disable_jit_profiling]
+2025-07-16 23:30:57 - speechbrain.utils.quirks - INFO - Excluded quirks specified by the `SB_DISABLE_QUIRKS` environment (comma-separated list): []
+2025-07-16 23:30:57 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:30:57 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _recover
+2025-07-16 23:30:58 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:30:58 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-07-16 23:30:58 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-16 23:30:58 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-07-16 23:30:58 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-07-16 23:30:58 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-07-16 23:30:58 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 23:30:58 - werkzeug - INFO -  * Debugger PIN: 144-133-759
+2025-07-16 23:30:59 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:30:59] "GET / HTTP/1.1" 200 -
+2025-07-16 23:30:59 - root - INFO - openai client loaded successfully
+2025-07-16 23:30:59 - root - INFO - Loading label correction model...
+2025-07-16 23:30:59 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:30:59] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-16 23:31:00 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:31:00 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:31:00 - root - INFO - Model loaded successfully.
+2025-07-16 23:31:01 - root - INFO - Loading diarisation model...
+2025-07-16 23:31:02 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.5.4 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--segmentation/snapshots/c4c8ceafcbb3a7a280c2d357aee9fbc9b0be7f9b/pytorch_model.bin`
+2025-07-16 23:31:02 - speechbrain.utils.fetching - INFO - Fetch hyperparams.yaml: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/hyperparams.yaml'
+2025-07-16 23:31:02 - speechbrain.utils.fetching - INFO - Fetch custom.py: Fetching from HuggingFace Hub 'speechbrain/spkrec-ecapa-voxceleb' if not cached
+2025-07-16 23:31:03 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for _save
+2025-07-16 23:31:03 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for _load
+2025-07-16 23:31:03 - speechbrain.utils.checkpoints - DEBUG - Registered parameter transfer hook for _load
+2025-07-16 23:31:03 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint save hook for save
+2025-07-16 23:31:03 - speechbrain.utils.checkpoints - DEBUG - Registered checkpoint load hook for load_if_possible
+2025-07-16 23:31:03 - speechbrain.utils.parameter_transfer - DEBUG - Collecting files (or symlinks) for pretraining in /home/sarfraz/.cache/torch/pyannote/speechbrain.
+2025-07-16 23:31:03 - speechbrain.utils.fetching - INFO - Fetch embedding_model.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt'
+2025-07-16 23:31:03 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["embedding_model"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:31:03 - speechbrain.utils.fetching - INFO - Fetch mean_var_norm_emb.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt'
+2025-07-16 23:31:03 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["mean_var_norm_emb"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:31:03 - speechbrain.utils.fetching - INFO - Fetch classifier.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt'
+2025-07-16 23:31:03 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["classifier"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:31:03 - speechbrain.utils.fetching - INFO - Fetch label_encoder.txt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt'
+2025-07-16 23:31:03 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["label_encoder"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:31:03 - speechbrain.utils.parameter_transfer - INFO - Loading pretrained files for: embedding_model, mean_var_norm_emb, classifier, label_encoder
+2025-07-16 23:31:03 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): embedding_model -> /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:31:03 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): mean_var_norm_emb -> /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:31:03 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): classifier -> /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:31:03 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): label_encoder -> /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:31:03 - speechbrain.dataio.encoder - DEBUG - Loaded categorical encoding from /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:31:03 - root - INFO - Model loaded successfully.
+2025-07-16 23:31:03 - root - INFO - Starting diarization process
+2025-07-16 23:31:12 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:31:12] "GET /start HTTP/1.1" 200 -
+2025-07-16 23:31:20 - root - INFO - Diarization completed successfully
+2025-07-16 23:31:20 - root - INFO - segmenting audio
+2025-07-16 23:31:20 - root - INFO - Skipping segment from 8468 to 8974 ms, duration is less than 500 ms
+2025-07-16 23:31:20 - root - INFO - Segment: SPEAKER_00, Start: 8468, End: 8974
+2025-07-16 23:31:20 - root - INFO - Audio segmentation completed successfully.
+2025-07-16 23:31:20 - root - INFO - Audio segments created successfully
+2025-07-16 23:31:20 - root - INFO - Starting label correction process
+2025-07-16 23:31:20 - root - INFO - Database connection established successfully.
+2025-07-16 23:31:20 - root - INFO - Processing segment with label: SPEAKER_00
+2025-07-16 23:31:20 - root - INFO - Database connection closed successfully.
+2025-07-16 23:31:20 - root - INFO - Label correction process completed successfully
+2025-07-16 23:31:20 - root - INFO - Starting transcription process
+2025-07-16 23:31:20 - root - INFO - Database connection established successfully
+2025-07-16 23:31:23 - root - INFO - openai client loaded successfully
+2025-07-16 23:31:23 - root - INFO - Loading label correction model...
+2025-07-16 23:31:25 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:31:25 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:31:25 - root - INFO - Model loaded successfully.
+2025-07-16 23:31:25 - root - INFO - Loading diarisation model...
+2025-07-16 23:31:26 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.5.4 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--segmentation/snapshots/c4c8ceafcbb3a7a280c2d357aee9fbc9b0be7f9b/pytorch_model.bin`
+2025-07-16 23:31:26 - speechbrain.utils.fetching - INFO - Fetch hyperparams.yaml: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/hyperparams.yaml'
+2025-07-16 23:31:26 - speechbrain.utils.fetching - INFO - Fetch custom.py: Fetching from HuggingFace Hub 'speechbrain/spkrec-ecapa-voxceleb' if not cached
+2025-07-16 23:31:27 - speechbrain.utils.parameter_transfer - DEBUG - Collecting files (or symlinks) for pretraining in /home/sarfraz/.cache/torch/pyannote/speechbrain.
+2025-07-16 23:31:27 - speechbrain.utils.fetching - INFO - Fetch embedding_model.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt'
+2025-07-16 23:31:27 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["embedding_model"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:31:27 - speechbrain.utils.fetching - INFO - Fetch mean_var_norm_emb.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt'
+2025-07-16 23:31:27 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["mean_var_norm_emb"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:31:27 - speechbrain.utils.fetching - INFO - Fetch classifier.ckpt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt'
+2025-07-16 23:31:27 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["classifier"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:31:27 - speechbrain.utils.fetching - INFO - Fetch label_encoder.txt: Using symlink found at '/home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt'
+2025-07-16 23:31:27 - speechbrain.utils.parameter_transfer - DEBUG - Set local path in self.paths["label_encoder"] = /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:31:27 - speechbrain.utils.parameter_transfer - INFO - Loading pretrained files for: embedding_model, mean_var_norm_emb, classifier, label_encoder
+2025-07-16 23:31:27 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): embedding_model -> /home/sarfraz/.cache/torch/pyannote/speechbrain/embedding_model.ckpt
+2025-07-16 23:31:27 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): mean_var_norm_emb -> /home/sarfraz/.cache/torch/pyannote/speechbrain/mean_var_norm_emb.ckpt
+2025-07-16 23:31:27 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): classifier -> /home/sarfraz/.cache/torch/pyannote/speechbrain/classifier.ckpt
+2025-07-16 23:31:27 - speechbrain.utils.parameter_transfer - DEBUG - Redirecting (loading from local path): label_encoder -> /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:31:27 - speechbrain.dataio.encoder - DEBUG - Loaded categorical encoding from /home/sarfraz/.cache/torch/pyannote/speechbrain/label_encoder.ckpt
+2025-07-16 23:31:27 - root - INFO - Model loaded successfully.
+2025-07-16 23:31:27 - root - INFO - Starting diarization process
+2025-07-16 23:31:27 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-07-16 23:31:27 - root - INFO - Transcription process completed successfully
+2025-07-16 23:31:27 - root - INFO - Database connection closed successfully
+2025-07-16 23:31:27 - root - INFO - Cursor closed successfully
+2025-07-16 23:31:28 - root - INFO - Audio segments inserted successfully.
+2025-07-16 23:31:28 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:31:28] "POST /upload HTTP/1.1" 200 -
+2025-07-16 23:31:33 - root - INFO - openai client loaded successfully
+2025-07-16 23:31:33 - root - INFO - Loading label correction model...
+2025-07-16 23:31:34 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:31:34 - pytorch_lightning.utilities.migration.utils - INFO - Lightning automatically upgraded your loaded checkpoint from v1.2.7 to v2.5.2. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../../.cache/torch/pyannote/models--pyannote--embedding/snapshots/4db4899737a38b2d618bbd74350915aa10293cb2/pytorch_model.bin`
+2025-07-16 23:31:34 - root - INFO - Model loaded successfully.
+2025-07-16 23:31:34 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 23:31:34] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-16 23:31:41 - root - INFO - Diarization completed successfully
+2025-07-16 23:31:41 - root - INFO - segmenting audio
+2025-07-16 23:31:41 - root - INFO - Skipping segment from 4030 to 7388 ms, duration is less than 500 ms
+2025-07-16 23:31:41 - root - INFO - Segment: SPEAKER_00, Start: 4030, End: 7388
+2025-07-16 23:31:41 - root - INFO - Skipping segment from 8485 to 9970 ms, duration is less than 500 ms
+2025-07-16 23:31:41 - root - INFO - Segment: SPEAKER_00, Start: 8485, End: 9970
+2025-07-16 23:31:41 - root - INFO - Audio segmentation completed successfully.
+2025-07-16 23:31:41 - root - INFO - Audio segments created successfully
+2025-07-16 23:31:41 - root - INFO - Starting label correction process
+2025-07-16 23:31:41 - root - INFO - Database connection established successfully.
+2025-07-16 23:31:41 - root - INFO - Processing segment with label: SPEAKER_00
+2025-07-16 23:31:41 - root - INFO - Both speaker vectors are empty, skipping label correction.
+2025-07-16 23:31:41 - root - INFO - Processing segment with label: SPEAKER_00
+2025-07-16 23:31:41 - root - INFO - Database connection closed successfully.
+2025-07-16 23:31:41 - root - INFO - Label correction process completed successfully
+2025-07-16 23:31:41 - root - INFO - Starting transcription process
+2025-07-16 23:31:41 - root - INFO - Database connection established successfully
+2025-07-16 23:31:43 - root - INFO - openai client loaded successfully
+2025-07-16 23:31:43 - root - INFO - Loading label correction model...

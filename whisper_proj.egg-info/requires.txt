@@ -1,0 +1,8 @@
+pandas
+numpy
+dill
+openai
+python-dotenv
+torch>=2.7.1
+torchaudio>=2.7.0
+pyannote.audio<4,>=3.0
